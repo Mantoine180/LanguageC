@@ -1,4 +1,5 @@
-# Dépot de code en C 1
+# Dépot de code en C (une modification)
+
 ## Auteurs: 
 * Claverie Antoine
 * Amat Clément
