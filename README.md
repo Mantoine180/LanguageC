@@ -1,4 +1,4 @@
-# Dépot de code en C (une modification)
+# Dépot de code d'exercices en langage C
 
 ## Auteurs: 
 * Claverie Antoine
