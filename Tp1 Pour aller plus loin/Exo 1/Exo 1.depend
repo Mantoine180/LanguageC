@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1579812043 source:c:\users\antoine\desktop\langage c++\tp1 pour aller plus loin\exo 1\main.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+

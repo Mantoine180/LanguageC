@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1579817049 source:c:\users\antoine\desktop\langage c++\tp1\exo 2\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
